@@ -1,0 +1,19 @@
+export PATH=$PATH:/home/php/Desktop/hyperledgerfabric-creditBlock/testfolder/BasicNetwork-2.0/artifacts
+
+
+export PATH=$PATH:/home/php/Desktop/hyperledgerfabric-creditBlock/testfolder/BasicNetwork-2.0
+
+
+export PATH=$PATH:/home/php/Desktop/hyperledgerfabric-creditBlock/testfolder/BasicNetwork-2.0/bin
+
+
+ERRO [main] InitCmd -> Cannot run peer because error when setting up MSP of type bccsp from directory /home/php/Desktop/hyperledgerfabr KeyMaterial not found in SigningIdentityInfo
+
+
+
+
+
+
+
+
+
